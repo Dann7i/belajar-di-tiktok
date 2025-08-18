@@ -1,0 +1,21 @@
+{
+  "name": "html-editor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dan": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dann7i/belajar-di-tiktok.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Dann7i/belajar-di-tiktok/issues"
+  },
+  "homepage": "https://github.com/Dann7i/belajar-di-tiktok#readme"
+}
