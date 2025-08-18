@@ -1,19 +1,19 @@
 {
   "name": "html-editor",
   "version": "1.0.0",
+  "type": "module",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "dan": "node index.js"
+    "dan": "node server.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Dann7i/belajar-di-tiktok.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Wildan Hermawan",
   "license": "ISC",
-  "type": "module",
   "bugs": {
     "url": "https://github.com/Dann7i/belajar-di-tiktok/issues"
   },
