@@ -5,7 +5,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "dan": "node server.js"
+    "dan": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Dann7i/belajar-di-tiktok/issues"
   },
-  "homepage": "https://github.com/Dann7i/belajar-di-tiktok#readme"
+  "homepage": "https://github.com/Dann7i/belajar-di-tiktok#readme",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
 }
